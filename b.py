@@ -1,0 +1,1 @@
+print("ta fácil, bora complicar")
